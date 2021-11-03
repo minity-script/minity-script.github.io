@@ -10,7 +10,7 @@ Minity is a scripting language which compiles to Vanilla Minecraft datapacks. It
 
 For some examples of what minity can do, see [Features](/features). To get started, see [Quick start](/getting-started). 
 
-Also check out [the examples](https://github.com/minity-script/minity/tree/main/examples) and [full syntax docs](syntax/basics.md). 
+Also check out [the examples](https://github.com/minity-script/minity/tree/main/examples) and [full syntax docs](syntax/basics.md). There is also [a vscode extension](https://marketplace.visualstudio.com/items?itemName=minity.minity) available.
 
 ## Minity in action
 Here's a demo video for Colored Keys, one of the included examples in Minity. Click below to watch the video, and check out [the source code of this datapack](https://github.com/minity-script/minity/blob/main/examples/colored_keys/src/index.minity).
